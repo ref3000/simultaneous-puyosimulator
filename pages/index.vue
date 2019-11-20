@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1>simultaneous-puyosimulator</h1>
+    <marquee><h1>💩❗💩❗💩❗💩❗💩❗</h1></marquee>
   </div>
 </template>
 
